@@ -2,11 +2,11 @@
 
 Little nexflow workflow to perform SV variant calling from BAM files of HG002 samples obtained from different alignment alghorithms and from downsampled fastqs.
 The depths of coverage that will be used are:
-    - 5X
-    - 10X
-    - 20X
-    - 30X
-    - 40X
+* 5X
+* 10X
+* 20X
+* 30X
+* 40X
 
 The alignment alghorithms used are:
 * [minimap2](https://github.com/lh3/minimap2)
