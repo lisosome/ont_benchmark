@@ -1,0 +1,9 @@
+name: nanovar
+channels:
+  - bioconda
+  - anaconda
+  - defaults
+  - conda-forge
+dependencies:
+  - bcftools
+  - nanovar

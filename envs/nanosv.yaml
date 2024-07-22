@@ -1,0 +1,9 @@
+name: nanosv
+channels:
+  - bioconda
+  - anaconda
+  - defaults
+  - conda-forge
+dependencies:
+  - sambamba
+  - nanosv

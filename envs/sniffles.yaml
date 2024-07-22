@@ -1,0 +1,9 @@
+name: sniffles
+channels:
+  - bioconda
+  - anaconda
+  - defaults
+  - conda-forge
+dependencies:
+  - bcftools
+  - sniffles
